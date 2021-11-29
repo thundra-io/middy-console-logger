@@ -1,6 +1,6 @@
 {
   "name": "middy-console-logger",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Middy AWS Lambda console logger middleware",
   "author": "Serkan Özal <serkanozal86@gmail.com> (https://github.com/serkan-ozal)",
   "homepage": "https://github.com/serkan-ozal/middy-console-logger",
